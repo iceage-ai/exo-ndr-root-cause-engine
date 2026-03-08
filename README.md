@@ -40,3 +40,24 @@ Expected signal keys (JSON input):
 - Add live Exchange Online cmdlet ingestion mode.
 - Add HTML report mode for incident handoff.
 - Add Pester tests for branch correctness.
+
+## SEO & AI Search Keywords
+**Primary search title:** Exchange Online NDR Root Cause Analyzer
+
+**Target keywords:**
+- exchange online ndr 5.7.1
+- microsoft 365 ndr troubleshooting
+- email bounce root cause
+- ndr diagnostic powershell
+- smtp error resolution
+
+**High-intent AI search questions:**
+- How to troubleshoot NDR 5.7.1 in Exchange Online?
+- Why emails bounce in Microsoft 365?
+- What should I do after NDR diagnosis?
+
+**On-page SEO notes:**
+- Keep issue-first headings (problem -> diagnosis -> next step).
+- Include command examples with realistic placeholders only.
+- Repeat key terms naturally in H1/H2, intro, and troubleshooting sections.
+- Add incident outcome language: root cause, remediation, validation, prevention.
